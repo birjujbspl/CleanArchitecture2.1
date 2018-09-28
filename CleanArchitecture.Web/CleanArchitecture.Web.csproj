@@ -28,9 +28,4 @@
     <PackageReference Include="Serilog.Extensions.Logging.File" Version="1.0.1" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\CleanArchitecture.core\CleanArchitecture.core\CleanArchitecture.Core.csproj" />
-    <ProjectReference Include="..\CleanArchitecture.Infrastructure\CleanArchitecture.Infrastructure.csproj" />
-  </ItemGroup>
-
 </Project>
